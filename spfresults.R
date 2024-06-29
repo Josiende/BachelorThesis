@@ -1,6 +1,6 @@
 #load csv files from SFP
 core <- read.csv("C:/Users/josie/Downloads/spfcore.csv")
-gdp <- read.csv("C:/Users/josie/Downloads/spfgdp.csv")
+gdp <- read.csv("C:/Users/josie/Downloads/spfhead.csv")
 
 
 # Headline inflation ------------------------------------------------------
